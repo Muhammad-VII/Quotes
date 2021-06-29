@@ -1,0 +1,38 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-image: url(Images/cool-background.png);
+    background-position: center center;
+    height: 100vh;
+}
+.Main{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h1{
+    font-size: 80px;
+    font-family: Impact;
+    color: #fff;
+}
+p{
+    font-size: 35px;
+    color: #fff;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+.layer{
+    height: 100%;
+    background-color: rgba(0, 0, 0, .6);
+}
+
+.buttom{
+    text-align: center;
+
+}
+.content{
+    text-align: center;
+}
